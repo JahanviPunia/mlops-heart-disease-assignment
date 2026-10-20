@@ -1,5 +1,8 @@
 # Heart Disease Classification — MLOps Assignment
 
+##Name : Jahanvi Punia
+##BITS ID: 2025AE05147
+
 ## 1. Project Overview
 
 This project explores the machine learning lifecycle using the UCI Heart Disease dataset. I used Google Colab to explore the data, prepare features, compare two classifiers, track experiments, save a trained model, and test a FastAPI prediction service.
