@@ -1,0 +1,22 @@
+{
+  "selected_model": "Logistic Regression",
+  "selection_metric": "roc_auc",
+  "cross_validation": [
+    {
+      "model": "Logistic Regression",
+      "accuracy": 0.8348633879781421,
+      "precision": 0.8318679549114332,
+      "recall": 0.8055555555555556,
+      "roc_auc": 0.9098640171556838
+    },
+    {
+      "model": "Random Forest",
+      "accuracy": 0.8415846994535519,
+      "precision": 0.8602254428341384,
+      "recall": 0.7838624338624338,
+      "roc_auc": 0.9078282828282829
+    }
+  ],
+  "training_rows": 303,
+  "feature_count": 13
+}
