@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Local databases and MLflow artifacts
+mlflow.db
+mlruns/
+
+# Notebook and editor files
+.ipynb_checkpoints/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db

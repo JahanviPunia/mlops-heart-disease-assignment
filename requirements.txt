@@ -1,0 +1,17 @@
+# Python environment used for the initial Colab experiments:
+# Python 3.13.16
+# Keep scikit-learn aligned with the saved model artifact.
+
+pandas==2.2.3
+numpy==2.1.3
+scikit-learn==1.6.1
+joblib==1.6.0
+mlflow==3.17.1
+fastapi==0.141.1
+pydantic==2.14.1
+uvicorn
+ucimlrepo
+matplotlib
+seaborn
+httpx
+pytest
