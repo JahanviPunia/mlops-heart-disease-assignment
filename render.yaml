@@ -1,0 +1,9 @@
+
+services:
+  - type: web
+    name: heart-disease-mlops-api
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    dockerContext: .
+    dockerfilePath: ./Dockerfile
